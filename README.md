@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Adeoye Lukman Tiwalade 
 
-<!--
-**prince-tiwaa/prince-tiwaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | C# | .NET | FinTech & Scalable APIs
 
-Here are some ideas to get you started:
+I build secure, scalable backend systems using C# and .NET.  
+Focused on clean architecture, performance, and production-ready systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+**Languages**
+- C#
+- SQL
+
+**Backend**
+- .NET Web API
+- Entity Framework Core
+- ASP.NET Core
+- LINQ
+
+**Architecture & Patterns**
+- Clean Architecture
+- Repository Pattern
+- RESTful APIs
+- JWT Authentication
+- Role-Based Authorization
+
+**Tools**
+- Git & GitHub
+- Docker
+- Postman
+- Swagger
+- SQL Server
+
+---
+
+## 📌 Current Focus
+- Building production-ready backend systems
+- Microservices architecture
+
+---
+
+## 🔥 Featured Projects (Coming Soon)
+- Hotel Booking API (Clean Architecture)
+- FinTech Wallet API
+- E-Commerce Backend System
+- Microservices-based Order System
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/lukmanadeoye/
+- Email: adeoyelukman08@gmail.com
