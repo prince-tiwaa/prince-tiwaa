@@ -41,11 +41,11 @@ Focused on clean architecture, performance, and production-ready systems.
 
 ---
 
-## 🔥 Featured Projects (Coming Soon)
-- Hotel Booking API (Clean Architecture)
-- FinTech Wallet API
-- E-Commerce Backend System
-- Microservices-based Order System
+## 🔥 Featured Projects
+### 🏨 Hotel Booking API
+Clean Architecture REST API built with ASP.NET Core.
+
+🔗 https://github.com/prince-tiwaa/hotel-booking-api
 
 ---
 
