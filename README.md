@@ -11,10 +11,12 @@ Focused on clean architecture, performance, and production-ready systems.
 
 **Languages**
 - C#
+- Python
 - SQL
 
 **Backend**
 - .NET Web API
+- Django
 - Entity Framework Core
 - ASP.NET Core
 - LINQ
